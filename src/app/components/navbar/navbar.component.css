@@ -1,0 +1,11 @@
+.row{
+    box-sizing: border-box;
+    font-weight: bold;
+    color:aquamarine;
+}
+
+.titulo{
+    text-align: center;
+    font-weight: 300;
+    color: black;
+}
